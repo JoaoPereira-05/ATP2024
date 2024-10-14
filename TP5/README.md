@@ -31,8 +31,8 @@ def disponivel(cinema, nfilme, lugar):
 
 Também acrescentei 2 funções que não estavam no exercício original:
 
-*7 - Remover sala: Esta função percorre a lista *cinema* e remove a sala com o nome introduzido na função.
-*8 - Devolver bilhete: Esta função recebe o nome da sala e um lugar e remove o lugar da lista de vendidos.
+* 7 - Remover sala: Esta função percorre a lista *cinema* e remove a sala com o nome introduzido na função.
+* 8 - Devolver bilhete: Esta função recebe o nome da sala e um lugar e remove o lugar da lista de vendidos.
 
 Finalmente, completei o menu chamando as funções específicas a cada opção, *prints* necessários e o que fazer no caso de o utilizador inserir opções inválidas.
 
